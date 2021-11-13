@@ -1,13 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-        int studentAge = 15;
+        int studentAge = 13;
         double studentGPA = 3.45;
         char studentFirstInitial = 'K';
         char studentLastInitial = 'H';
         boolean hasPerfectAttendance = true;
 
-        System.out.println(studentAge);
+        System.out.println("studentAge:" + studentAge);
         System.out.println(studentGPA);
         System.out.println(studentFirstInitial);
         System.out.println(studentLastInitial);
